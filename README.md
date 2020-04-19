@@ -3,6 +3,6 @@ Untuk memenuhi tugas matkul Grafika Komputer yang diampu oleh Lutfi Hakim.,S.pd.
 
 
 Anggota Kelompok:
-1. Reza Wahid Sholahuddin 361855401075 
+1. Reza Wahid Sholahuddin Bukan Anak Dajjal 361855401075 
 2. Fadel Muhammad         361855401089
 3. Irfan Rakha Maulana    361855401068
