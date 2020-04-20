@@ -413,8 +413,6 @@ document.addEventListener('DOMContentLoaded', ()=>{
     ctx.restore();
 
 
-
-
   //pustaka : https://www.youtube.com/watch?v=BqCPrkWzl-E
   
     
