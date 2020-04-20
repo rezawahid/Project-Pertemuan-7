@@ -1,5 +1,5 @@
 # Project-Pertemuan-7
-Untuk memenuhi tugas matkul Grafika Komputer yang diampu oleh Lutfi Hakim.,S.pd.,M.T
+Untuk memenuhi tugas matkul Grafika Komputer yang diampu oleh bapak Lutfi Hakim.,S.pd.,M.T
 
 
 Anggota Kelompok:
