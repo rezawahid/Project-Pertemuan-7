@@ -74,7 +74,6 @@ document.addEventListener('DOMContentLoaded', ()=>{
 
     //Bandul
     //Bola
-    //Bola
     ctx.save();
     ctx.beginPath();
     ctx.translate(150,0)
