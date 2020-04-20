@@ -413,7 +413,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     ctx.restore();
 
 
-  //pustaka : https://www.youtube.com/watch?v=BqCPrkWzl-E
+  //pustaka : https://www.youtube.com/watch?v=5vxygxshTQ4
   
     
 });
