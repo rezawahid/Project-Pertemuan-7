@@ -11,10 +11,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     ctx.textAlign = 'start';
     ctx.font = 'normal 30px Arial';
     drawGrid(100);
-
     
-
-      
     let x = 100;
     let y = 100;
 
