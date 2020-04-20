@@ -1,5 +1,5 @@
 # Project-Pertemuan-7
-Untuk memenuhi tugas matkul Grafika Komputer yang diampu oleh bapak Lutfi Hakim.,S.pd.,M.T pada materi Rotation
+Untuk memenuhi tugas matkul Grafika Komputer yang diampu oleh bapak Lutfi Hakim.,S.pd.,M.T pada materi Transformation
 
 
 Anggota Kelompok:
